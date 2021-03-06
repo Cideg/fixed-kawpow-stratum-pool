@@ -60,7 +60,7 @@
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
   "engines": {
-    "node": ">=7"
+    "node": ">=0.10"
   },
   "homepage": "https://github.com/RavenCommunity/kawpow-stratum-pool",
   "keywords": [
